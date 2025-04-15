@@ -49,4 +49,3 @@ Each file has the same structure and includes 41 features describing connection 
   - Accuracy scores
   - Confusion matrices
   - Classification reports (Precision, Recall, F1-score)
-- Graphs (optional): Elbow curve for selecting optimal `k`.
